@@ -9,3 +9,12 @@
 ### Return and handle an error
 [ref: https://golang.org/doc/tutorial/handle-errors ](https://golang.org/doc/tutorial/handle-errors)
 
+### Return a random greeting
+[ref: https://golang.org/doc/tutorial/random-greeting](https://golang.org/doc/tutorial/random-greeting)
+
+### Add a test
+[ref: https://golang.org/doc/tutorial/add-a-test](https://golang.org/doc/tutorial/add-a-test)
+
+### Compile and install the application
+[ref: https://golang.org/doc/tutorial/compile-install](https://golang.org/doc/tutorial/compile-install)
+
