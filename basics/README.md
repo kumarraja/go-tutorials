@@ -1,4 +1,4 @@
-# go-tutorials-basics
+# Go basic level tutorials and exmples
 
 ### Create a Go module
 [ref: https://golang.org/doc/tutorial/create-module ](https://golang.org/doc/tutorial/create-module)
